@@ -1,5 +1,14 @@
 [![Build Status](https://travis-ci.org/WebAssembly/spec.svg?branch=master)](https://travis-ci.org/WebAssembly/spec)
 
+# Funclets Proposal for WebAssembly
+
+This repository is a clone of [github.com/WebAssembly/spec/](https://github.com/WebAssembly/spec/).
+It is meant for discussion, prototype specification and implementation of a proposal to add flexible intraprocedural control flow to WebAssembly.
+
+See the [overview](proposals/funclets/Overview.md) for a summary of the proposal.
+
+Original `README` from upstream repository follows...
+
 # spec
 
 This repository holds the sources for the WebAssembly draft specification
